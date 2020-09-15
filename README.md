@@ -1,5 +1,6 @@
 # UserRegistrationLogin
 Unique Form for registration or login user
+Transparent background 
 
 ## Use of Bootstrap (CDN), HTML et CSS
 
